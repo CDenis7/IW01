@@ -22,7 +22,7 @@ nano backup.sh
 
 # Pasul 3: Adăugam conținutul scriptului
 
-<img width="974" height="538" alt="image" src="https://github.com/user-attachments/assets/8150ef0c-8c09-4243-a3f7-2afc96f33d6f" />
+<img width="487" height="269" alt="489261151-8150ef0c-8c09-4243-a3f7-2afc96f33d6f" src="https://github.com/user-attachments/assets/f14b9049-2e86-4d8b-9292-378f75eb961d" />
 
 # Pasul 4: Facem scriptul executabil
 
